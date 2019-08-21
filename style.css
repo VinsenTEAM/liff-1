@@ -3,8 +3,8 @@ html{
 }
 
 body {
-  background: -webkit-linear-gradient(200deg, #00C4FF, #9D1BB2);
-  background: linear-gradient(205deg, #00C4FF, #9D1BB2);
+  background: -webkit-linear-gradient(200deg, #000000, #000000);
+  background: linear-gradient(205deg, #000000, #000000);
   height: 100vh;
   margin: 0; 
   padding: 0;
@@ -43,11 +43,11 @@ body {
 }
 
 .button6 {
-    background-color: #212121;
-    color: white;
+    background-color: #ffffff;
+    color: black;
     width: 250px;
     border-radius: 6px;
-    border: 2px solid #212121;
+    border: 2px solid #ffffff;
 }
 
 .button6:hover {
@@ -57,11 +57,11 @@ body {
 }
 
 .button5 {
-    background-color: #3f3f3f;
+    background-color: #ffffff;
     color: black;
     width: 250px;
     border-radius: 6px;
-    border: 2px solid #3f3f3f;
+    border: 2px solid #ffffff;
 }
 
 .button5:hover {
@@ -71,11 +71,11 @@ body {
 }
 
 .button4 {
-    background-color: #555555;
-    color: white;
+    background-color: #ffffff;
+    color: black;
     width: 250px;
     border-radius: 6px;
-    border: 2px solid #555555;
+    border: 2px solid #ffffff;
 }
 
 .button4:hover {
@@ -85,11 +85,11 @@ body {
 }
 
 .button3 {
-    background-color: #7c7c7c;
+    background-color: #ffffff;
     color: black;
     width: 250px;
     border-radius: 6px;
-    border: 2px solid #7c7c7c;
+    border: 2px solid #ffffff;
 }
 
 .button3:hover {
@@ -99,11 +99,11 @@ body {
 }
 
 .button2 {
-    background-color: #a5a5a5;
-    color: white;
+    background-color: #ffffff;
+    color: black;
     width: 250px;
     border-radius: 6px;
-    border: 2px solid #a5a5a5;
+    border: 2px solid #ffffff;
 }
 
 .button2:hover {
@@ -113,11 +113,11 @@ body {
 }
 
 .button1 {
-    background-color: #cccccc;
+    background-color: #ffffff;
     color: black;
     width: 250px;
     border-radius: 6px;
-    border: 2px solid #cccccc;
+    border: 2px solid #ffffff;
 }
 
 .button1:hover {
